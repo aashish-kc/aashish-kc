@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.aashish-kc.com.np/"><img src="https://img.shields.io/badge/portfolio-aashish--kc.com.np-black?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/er-aashish-kc-66948811b/"><img src="https://img.shields.io/badge/LinkedIn-er--aashish--kc-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/er-aashish-kc/"><img src="https://img.shields.io/badge/LinkedIn-er--aashish--kc-blue?style=flat-square&logo=linkedin" /></a>
   <img src="https://img.shields.io/badge/based%20in-Butwal%20⇄%20Kathmandu%2C%20Nepal-informational?style=flat-square" />
 </p>
 
@@ -27,7 +27,8 @@ Currently a **Technical Team Lead at [Arhant Solutions](https://arhant.com.np/)*
 - 🏢 Working on **iEnsure** & **eBeema** — digitalizing life insurance in Nepal
 - 🛠️ Core stack: **.NET Core, C#, MS SQL Server, React/Next.js**
 - 💳 Payment integrations: **eSewa, Khalti, IME Pay, NCHL**
-- 🎓 MBA · Bachelor of Computer Engineering
+- 🎓 MBA
+- 🎓 Bachelor of Computer Engineering
 - 📍 Butwal ⇄ Kathmandu, Nepal
 
 ### 🚀 Things I've shipped
@@ -38,6 +39,10 @@ Currently a **Technical Team Lead at [Arhant Solutions](https://arhant.com.np/)*
 | **[Ebeema](https://ebeema.com/)** | Insurance aggregator to compare & buy life, motor, and travel policies online | .NET Core, MSSQL, React |
 | **Customer & Payment API Platform** | Secure JWT-based APIs powering customer portals, mobile apps & real-time premium collection | .NET Core API, MSSQL, JWT, REST, Payment Integration |
 | **Bancassurance** | Centralized platform for bank staff to submit proposals and manage policy issuance/renewals/claims | .NET Core, ASP.NET MVC, MSSQL, jQuery |
+
+### ✍️ Writing
+
+- [Building iEnsure: A Life Insurance Platform in .NET Core](https://www.aashish-kc.com.np/blog/building-iensure) — architecture decisions, layered design, and lessons from digitalizing insurance workflows in Nepal
 
 ### 🧰 Tech I work with
 
@@ -65,7 +70,7 @@ Currently a **Technical Team Lead at [Arhant Solutions](https://arhant.com.np/)*
 
 Always happy to connect and talk tech, insurance-tech, or interesting projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-er--aashish--kc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-aashish-kc-66948811b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-er--aashish--kc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-aashish-kc/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-aashish--kc.com.np-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.aashish-kc.com.np/)
 
 <p align="center"><sub>© 2026 Aashish KC — status: 200 OK</sub></p>
