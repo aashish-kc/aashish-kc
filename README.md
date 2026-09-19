@@ -14,7 +14,7 @@
   "experience_years": "7+ years",
   "core_stack": [".NET Core", "C#", "MS SQL Server", "React", "Next.js"],
   "domains": ["insurance", "fintech"],
-  "education": "MBA"
+  "education":  ["MBA", "Computer Engineering"]
 }
 ```
 
