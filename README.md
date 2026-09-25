@@ -1,5 +1,5 @@
 # Hi, I'm Er. Aashish KC 👋
-### Senior Software Engineer & Technical Team Lead based in Nepal
+### Aashish KC | Senior Software Engineer & Technical Team Lead | .NET Core & Full-Stack
 
 <p align="left">
   <strong>🌐 Links:</strong> 
