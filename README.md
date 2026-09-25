@@ -3,7 +3,7 @@
 
 <p align="left">
   <strong>🌐 Links:</strong> 
-  <a href="https://linkedin.com" target="_blank">💼 LinkedIn</a> │ 
+  <a href="https://www.linkedin.com/in/er-aashish-kc" target="_blank">💼 LinkedIn</a> │ 
   <a href="https://www.aashish-kc.com.np/" target="_blank">🚀 Portfolio Website</a> │ 
   <a href="mailto:contact@aashish-kc.com.np">📧 Email Me</a>
 </p>
